@@ -11,5 +11,5 @@ console.log(typeof IsIsland)
 console.log(typeof population)
 console.log(typeof language)
 continent = 3
-console.log(continent)
+
 
